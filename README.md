@@ -1,6 +1,6 @@
 Hi , there 👋
 
-. 🇺🇦 I'm from Ukraine
+. 🇺🇦 Добрий вечір ми з України
 
 . 💻 I'm currently learning java and android development
 
